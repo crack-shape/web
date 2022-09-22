@@ -1,30 +1,40 @@
-//Configure
-$font-stack: Helvetica, sans-serif;
+//configure yooooooooo
+$font-stack: Helvetica, sans-serif; //w3schools lmaoo
 
-//Color palette
+// seperatoring to dooooooooooooooooooooooooooo
+
+//canva coloring palette
 $middle: #ba0f30;
-$dark: #2f2440;
-$light: #c6b79b;
+$dark: #2f2440; //basic
+$light: #c6b79b; //makes me blind!
 $highlight: #ff2511;
 
-span{
+// seperatoring to dooooooooooooooooooooooooooo
+
+span{ //works like a highlight!
   color: $highlight;
 }
 
-body{
+// seperatoring to doooooooooooooo
+
+body{ //i like em body shape, very dark yee
   font-family: $font-stack;
   text-align: center;
   background-color: $dark;
   color: white;
 }
 
-#constrain{
+// seperatoring to doooooooooo
+
+#constrain{ //life is constrain, metaverse is life!
   max-width: 800px;
   margin: 30px auto;
   padding: 0 40px;
 }
 
-#top{
+// seperatoring to doooooooooo
+
+#top{ //jus fancy name for navbar
   img{
     display: inline-block;
     width: 60px;
@@ -32,14 +42,18 @@ body{
     overflow: auto;
   }
 
-  h3{
+  // seperatoring to dooooooooooooooooooooooooooo
+  
+  h3{ //black as maaaaaaaaaaaaaaaaaaaaaaaaaa
     color: black;
     background-color: $middle;
     border-radius: 10px;
     margin-top: 25px;
   }
 
-  div{
+  // seperatoring to doooooooooooooooo
+  
+  div{ //eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
     display: inline-block;
     height: 80px;
     width: 80px;
@@ -48,12 +62,16 @@ body{
   }
 }
 
-//Quick links card
+// seperatoring to dooooooooooooooooooooooooooo
+
+//quick and easy to read linking cardd
 #quick{
   margin: 0 auto;
   max-width: 700px;
+  
+  // seperatoring thing to dooooooooooooooooooooooooooo
 
-  div{
+  div{ //dev def div dee diif deef deif dief deev deeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeev
     width: 270px;
     height: 170px;
     background-color: $middle;
@@ -65,3 +83,7 @@ body{
     cursor: pointer;
   }
 }
+
+// seperatoring to dooooooooooooooooooooooooooo
+
+//slayy slayyy slayy slayyyy slayyyyyyyyyyyy omggggggggggggggggggggggg it actuallly compiled, am highh noww!!??!!!?!

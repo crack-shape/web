@@ -1,0 +1,67 @@
+//Configure
+$font-stack: Helvetica, sans-serif;
+
+//Color palette
+$middle: #ba0f30;
+$dark: #2f2440;
+$light: #c6b79b;
+$highlight: #ff2511;
+
+span{
+  color: $highlight;
+}
+
+body{
+  font-family: $font-stack;
+  text-align: center;
+  background-color: $dark;
+  color: white;
+}
+
+#constrain{
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 0 40px;
+}
+
+#top{
+  img{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    overflow: auto;
+  }
+
+  h3{
+    color: black;
+    background-color: $middle;
+    border-radius: 10px;
+    margin-top: 25px;
+  }
+
+  div{
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    overflow: auto;
+    vertical-align: middle;
+  }
+}
+
+//Quick links card
+#quick{
+  margin: 0 auto;
+  max-width: 700px;
+
+  div{
+    width: 270px;
+    height: 170px;
+    background-color: $middle;
+    border-radius: 20px;
+    border: 2px solid $light;
+    margin: 10px;
+    display: inline-block;
+    overflow: auto;
+    cursor: pointer;
+  }
+}

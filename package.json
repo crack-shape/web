@@ -1,0 +1,11 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Website to display projects for Crack Shape",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "sass Development/sass/main.scss Production/css/main.css"
+  },
+  "author": "Byte-Is-Null",
+  "license": "ISC"
+}
